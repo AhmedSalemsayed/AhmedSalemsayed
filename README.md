@@ -13,7 +13,8 @@
 ###
 
 <h1 align="center">Hi... I'm Ahmed</h1>
-
+<img src="[https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge](https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif)" height="25" alt="waving hand"  />
+</div>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
